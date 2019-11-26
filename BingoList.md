@@ -182,7 +182,9 @@
 180. Satirical candidate appears at non-leader seat
 181. "Remain alliance"
 182. Dogs at polling station showcase
-183. Casual wear on the dais 
+183. Casual wear on the dais
+184. "Silent Tories"
+185. "Youth vote"
 
 ## Going Forward
 
