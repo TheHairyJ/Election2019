@@ -165,8 +165,28 @@
 163. SNP lose in Scotland overall
 164. "Little Red Book"
 165. New Father of the House
+166. "Get Brexit done"
+167. pro-brexit vox pop
+168. anti-brexit vox pop
+169. Caroline Lucas seat announcement
+170. "Voting at 16"
+171. "A clear mandate"
+172. "SNP need a clear mandate for Independence"
+173. Lord Buckethead appears
+174. Jo Cox is mentioned
+175. Satirical candidate is centre of attention on dais
+176. More than one Satirical candidate on dais
+177. Count Binface appears
+178. Elmo appears
+179. Tweets shown on screen
+180. Satirical candidate appears at non-leader seat
+181. "Remain alliance"
+182. Dogs at polling station showcase
+183. Casual wear on the dais 
 
 ## Going Forward
+
+Work is required to remove any platform specific entities.
 
 As the election draws closer, applications which will make bingo cards with the criteria listed above will be linked. Additionally, generated bingo cards will be included in the repository for those wishing to take part at home. 
 
