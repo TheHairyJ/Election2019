@@ -33,7 +33,7 @@
 31. Brexit Party vote share % > Lib Dem vote share % (overall)  
 32. Lib Dem lose Orkney and Shetland  
 33. “Technical Difficulties”  
-34. “Obviously a disappointing result”  
+34. “Obviously a disappointing result but”  
 35. “Kingmaker”  
 36. “Balance of Power”  
 37. “Hard fought campaign”  
@@ -185,6 +185,31 @@
 183. Casual wear on the dais
 184. "Silent Tories"
 185. "Youth vote"
+186. Birkenhead Social Justice Party mentioned
+187. Jennifer Acuri mentioned
+188. The last seat to annouce is in Scotland
+189. The last seat to annouce is in England
+190. The last seat to annouce is in Wales
+191. The last seat to annouce is in Northern Ireland
+192. "We are still in this and can win" or similar.
+193. "It doesn’t reflect what we are hearing on the doorstep" or similar
+194. "Postal votes could play a big part" or similar
+195. Nationalisation/Privatisation of Royal Mail is mentioned
+196. "The polls have got it wrong before" or similar
+197. Meta reference of Bingo
+198. Corbyn is refered to as a terrorist sympathiser
+199. Boris is refered to as a 
+200. Reference to Bush v. Gore US Supreme Court decision
+201. Stormzy is mentioned
+202. Con gain a seat
+203. Lab gain a seat
+204. Lib Dem gain a seat
+205. Brexit gain a seat
+206. Colm is on camera
+207. Counting is shown to take place in a school
+208. Counting is shown to take place in a stadium
+209. Counting is shown to take place in a non-stadium sports venue 
+
 
 ## Going Forward
 
